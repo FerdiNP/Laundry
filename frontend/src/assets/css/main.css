@@ -1,0 +1,56 @@
+.modal {
+   position: absolute;
+   top: 100px !important;
+   right: 100px;
+   bottom: 0;
+   left: 0;
+   z-index: 10040;
+   overflow: auto;
+   overflow-y: auto;
+}
+
+.transaksi {
+  position: absolute;
+  top: 25px !important;
+}
+
+#content-wrapper {
+  background-color: #dcdcdc !important;
+}
+
+.list-group-item {
+  border: 5px solid #dcdcdc !important;
+  border-radius: 15px !important;
+}
+
+.tab {
+  color: black;
+}
+
+.modal-title {
+  color: white;
+}
+
+.modal-header {
+    background-color: #4e73df;
+    padding: 1.2rem 1.2rem !important;
+    border-bottom: 1px solid #e3e6f0 !important;
+    border-top-left-radius: calc(1.28rem - 1px) !important;
+    border-top-right-radius: calc(1.28rem - 1px) !important;
+ }
+
+ .modal-content {
+   border-radius: 1.3rem !important;
+ }
+
+ .close {
+   color: #fff !important;
+ }
+
+ .badge-dark {
+   background-color: #ff00c9   !important;
+ }
+
+ .login {
+   padding-top: 100px;
+ }
