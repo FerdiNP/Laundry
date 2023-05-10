@@ -29,6 +29,11 @@ Tugas Akhir UKK Laundry ;v
 - Download the file and extract
 - Open xampp
 - Start apache and mySql
+- Import the sql file to phpMyAdmin
 - Open backend folder first and use cmd and start the program using 'npm start'
 - After that Open frontend folder and use cmd and start the program using 'npm start'
-- Done bro
+- Done 
+
+# Default Login :
+Username : admin
+Password : admin
